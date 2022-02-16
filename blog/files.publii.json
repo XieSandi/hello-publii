@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ca638882d01352315c7fa8055226263a"
+        "md5": "df38baa3e702a689e96c977d97174523"
     },
     {
         "path": "assets",
@@ -107,42 +107,42 @@
     {
         "path": "/authors/coba/index.html",
         "type": "file",
-        "md5": "882df3940d9631b50955af7e0bf3ad20"
+        "md5": "08e744ed5668f35c26fe0f24303bb069"
     },
     {
         "path": "coba.html",
         "type": "file",
-        "md5": "d38df98c8ee1f136b3d4a6abc0373476"
+        "md5": "3cb40a19aa1fc66538a0d972833962d8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8ddae01105fc93b58dd141877c012209"
+        "md5": "a53663229fb1c8a81f12242824c61c45"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f0880a5d2eff88df1437830feaef7cda"
+        "md5": "9dbdaba76ccd7bf2148fa5664952cf53"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3a1ee3b49566b6e56d9087eb6ff6ddae"
+        "md5": "989ce4d60c209e6557ae9dee48ee0e45"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "4a2df3af2964f955f204910d04658c87"
+        "md5": "0165db211bbbc93d76ef1a26ed5a9b80"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "801edec2d6e0f093f348301c2fc92930"
+        "md5": "14b642ed1825added08e5d73f49ac911"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "894aa73ea7022f07bd14697cdf8046ef"
+        "md5": "e3d29b7e0cc581374473871723f53f78"
     },
     {
         "path": "sitemap.xsl",
@@ -157,6 +157,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3322da605b82d192f244c60bdb675176"
+        "md5": "bf7a5e35437fcf1c9c41ce317d3aab65"
     }
 ]

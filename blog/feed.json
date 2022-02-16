@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Coba",
     "description": "",
-    "home_page_url": "https://xiesandi.cyou/hello-publii",
-    "feed_url": "https://xiesandi.cyou/hello-publii/feed.json",
+    "home_page_url": "https://xiesandi.cyou/hello-publii/blog",
+    "feed_url": "https://xiesandi.cyou/hello-publii/blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Coba"
     },
     "items": [
         {
-            "id": "https://xiesandi.cyou/hello-publii/coba.html",
-            "url": "https://xiesandi.cyou/hello-publii/coba.html",
+            "id": "https://xiesandi.cyou/hello-publii/blog/coba.html",
+            "url": "https://xiesandi.cyou/hello-publii/blog/coba.html",
             "title": "Coba",
             "summary": "Coba ahh",
             "content_html": "<p>Coba ahh</p>",

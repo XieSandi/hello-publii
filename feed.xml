@@ -3,12 +3,35 @@
     <title>Coba</title>
     <link href="https://xiesandi.cyou/hello-publii/blog/feed.xml" rel="self" />
     <link href="https://xiesandi.cyou/hello-publii/blog" />
-    <updated>2022-02-16T18:30:01+07:00</updated>
+    <updated>2022-02-16T18:43:08+07:00</updated>
     <author>
         <name>Coba</name>
     </author>
     <id>https://xiesandi.cyou/hello-publii/blog</id>
 
+    <entry>
+        <title>Naon atuh naon</title>
+        <author>
+            <name>Coba</name>
+        </author>
+        <link href="https://xiesandi.cyou/hello-publii/blog/naon-atuh-naon.html"/>
+        <id>https://xiesandi.cyou/hello-publii/blog/naon-atuh-naon.html</id>
+
+        <updated>2022-02-16T18:43:08+07:00</updated>
+            <summary>
+                <![CDATA[
+                     naon weh kepo! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    naon weh kepo!
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Coba</title>
         <author>

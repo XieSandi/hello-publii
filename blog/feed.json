@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Coba",
+    "description": "",
+    "home_page_url": "https://xiesandi.cyou/hello-publii",
+    "feed_url": "https://xiesandi.cyou/hello-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Coba"
+    },
+    "items": [
+        {
+            "id": "https://xiesandi.cyou/hello-publii/coba.html",
+            "url": "https://xiesandi.cyou/hello-publii/coba.html",
+            "title": "Coba",
+            "summary": "Coba ahh",
+            "content_html": "<p>Coba ahh</p>",
+            "author": {
+                "name": "Coba"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-31T19:59:43+07:00",
+            "date_modified": "2022-02-16T18:30:01+07:00"
+        }
+    ]
+}

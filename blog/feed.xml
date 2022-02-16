@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Coba</title>
+    <link href="https://xiesandi.cyou/hello-publii/feed.xml" rel="self" />
+    <link href="https://xiesandi.cyou/hello-publii" />
+    <updated>2022-02-16T18:30:01+07:00</updated>
+    <author>
+        <name>Coba</name>
+    </author>
+    <id>https://xiesandi.cyou/hello-publii</id>
+
+    <entry>
+        <title>Coba</title>
+        <author>
+            <name>Coba</name>
+        </author>
+        <link href="https://xiesandi.cyou/hello-publii/coba.html"/>
+        <id>https://xiesandi.cyou/hello-publii/coba.html</id>
+
+        <updated>2022-02-16T18:30:01+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Coba ahh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coba ahh</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
